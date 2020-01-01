@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SWAPI-trivia/static/css/main.829e33d6.chunk.css",
+    "main.js": "/SWAPI-trivia/static/js/main.7d66eee0.chunk.js",
+    "main.js.map": "/SWAPI-trivia/static/js/main.7d66eee0.chunk.js.map",
+    "runtime-main.js": "/SWAPI-trivia/static/js/runtime-main.55dcc5cc.js",
+    "runtime-main.js.map": "/SWAPI-trivia/static/js/runtime-main.55dcc5cc.js.map",
+    "static/js/2.6ea25825.chunk.js": "/SWAPI-trivia/static/js/2.6ea25825.chunk.js",
+    "static/js/2.6ea25825.chunk.js.map": "/SWAPI-trivia/static/js/2.6ea25825.chunk.js.map",
+    "index.html": "/SWAPI-trivia/index.html",
+    "precache-manifest.35455e51580bdfb0d3711e8dc718b3ea.js": "/SWAPI-trivia/precache-manifest.35455e51580bdfb0d3711e8dc718b3ea.js",
+    "service-worker.js": "/SWAPI-trivia/service-worker.js",
+    "static/css/main.829e33d6.chunk.css.map": "/SWAPI-trivia/static/css/main.829e33d6.chunk.css.map",
+    "static/js/2.6ea25825.chunk.js.LICENSE": "/SWAPI-trivia/static/js/2.6ea25825.chunk.js.LICENSE",
+    "static/media/baby-yoda.jpeg": "/SWAPI-trivia/static/media/baby-yoda.69c1ee31.jpeg",
+    "static/media/Loading.css": "/SWAPI-trivia/static/media/background-stars.695ab299.jpeg",
+    "static/media/character-picture.jpeg": "/SWAPI-trivia/static/media/character-picture.1ce9dc9a.jpeg",
+    "static/media/Movie.css": "/SWAPI-trivia/static/media/darth.4871db8e.jpg",
+    "static/media/light-saber-x.jpeg": "/SWAPI-trivia/static/media/light-saber-x.71dad8b8.jpeg",
+    "static/media/star-wars-logo.jpeg": "/SWAPI-trivia/static/media/star-wars-logo.48258048.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55dcc5cc.js",
+    "static/js/2.6ea25825.chunk.js",
+    "static/css/main.829e33d6.chunk.css",
+    "static/js/main.7d66eee0.chunk.js"
+  ]
+}
