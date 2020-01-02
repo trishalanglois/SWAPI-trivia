@@ -2,19 +2,22 @@
   "name": "swapi-trivia",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://trishalanglois.github.io/SWAPI-trivia/",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "^3.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --verbose",
     "eject": "react-scripts eject",
-    "lint": "eslint src/"
+    "lint": "eslint src/",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,7 +37,8 @@
   "devDependencies": {
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
-    "enzyme-to-json": "^3.4.3"
+    "enzyme-to-json": "^3.4.3",
+    "gh-pages": "^2.1.1"
   },
   "jest": {
     "snapshotSerializers": [
